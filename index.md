@@ -1,6 +1,6 @@
 ## TERVE
 
-[W39 Kertaus-tutoriaali](http://www.jussiahola.fi)
+[W39 Kertaus-tutoriaali](https://github.com/Jusba11/Jusba11.github.io/tree/master/W37%20Kertaus-tutoriaali)
 
 [editor on GitHub](https://github.com/Jusba11/Jusba11.github.io/edit/master/index.md)
 
