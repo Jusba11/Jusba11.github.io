@@ -1,14 +1,14 @@
 ## TERVE
 
-[W37 Kertaus-tutoriaali](https://github.com/Jusba11/Jusba11.github.io/tree/master/W37%20Kertaus-tutoriaali)
+[W37 Kertaus-tutoriaali](https://jusba11.github.io/W37%20Kertaus-tutoriaali/)
 
-[W39 Responsiivinen toteutus](https://github.com/Jusba11/Jusba11.github.io/tree/master/W39%20Responsiivinen%20toteutus)
+[W39 Responsiivinen toteutus](https://jusba11.github.io/W37%20Kertaus-tutoriaali/)
 
-[editor on GitHub](https://github.com/Jusba11/Jusba11.github.io/edit/master/index.md)
+[editor on GitHub](https://jusba11.github.io/W37%20Kertaus-tutoriaali/)
 
-[editor on GitHub](https://github.com/Jusba11/Jusba11.github.io/edit/master/index.md)
+[editor on GitHub](https://jusba11.github.io/W37%20Kertaus-tutoriaali/)
 
-[editor on GitHub](https://github.com/Jusba11/Jusba11.github.io/edit/master/index.md)
+[editor on GitHub](https://jusba11.github.io/W37%20Kertaus-tutoriaali/)
 
 
 
