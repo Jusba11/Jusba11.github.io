@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Harkka</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+
+  <nav id="navigaatio" class="navbar navbar-default">
+
+    <ul class="nav navbar-nav">
+
+      <li><a href="#">Etusivu</a></li>
+      <li><a href="#">Tuotesivu</a></li>
+      <li><a href="#">Yhteystiedot</a></li>
+      <li class="active"><a href="#">Rekisteröidy</a></li>
+    </ul>
+
+  </nav>
+
+  <h1>Rekisteröidy Asiakkaaksi!</h1>
+
+  <form id="lomake" action="">
+
+    <div class="form-group">
+      <label for="nimi">Koko nimi</label>
+      <input type="text" class="form-control" placeholder="Koko nimesi" id="nimi">
+    </div>
+
+    <p>Sukupuoli:</p>
+    <div class="radio">
+      <label><input type="radio" name="man">Mies</label>
+      <label><input type="radio" name="man">Nainen</label>
+    </div>
+
+    <div class="form-group">
+      <label for="email">Sähköpostiosoite</label>
+      <input type="email" class="form-control" placeholder="Sähköpostiosoitteesi" id="email">
+    </div>
+
+    <div class="form-group">
+      <label for="pwd">Salasana:</label>
+      <input type="password" class="form-control" placeholder="salasana" id="pwd">
+    </div>
+
+    <div class="form-group">
+      <label for="pwd">Salasana uudestaan:</label>
+      <input type="password" class="form-control" placeholder="salasana uudestaan" id="pwd2">
+    </div>
+
+    <div class="checkbox">
+      <label><input type="checkbox">Kyllä, lähetä minulle spämmiä</label>
+    </div>
+    <button type="submit" class="btn btn-success">Rekisteröidy!</button>
+  </form>
+
+</body>
+</html>

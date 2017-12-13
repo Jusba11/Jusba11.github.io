@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Loading Animation</title>
+
+  <style>
+
+    div {
+        width: 0px;
+        height: 20px;
+        background-color: #000;
+        animation-name: lataus;
+        animation-duration: 5s;
+        color: white;
+        text-align: center;
+    }
+
+    @keyframes lataus {
+        0%   {width: 20px;
+              background-color: #111;}
+        25%  {width: 175px;
+              background-color: #555;}
+        50%  {width: 200px;
+              background-color: #999;}
+        75%  {width: 300px;
+              background-color: #eee;}
+        100% {width: 400px;
+              background-color: #fff;}
+    }
+
+  </style>
+
+
+</head>
+<body>
+  <h1>Wow</h1>
+<p>Cool loading animation, refresh page to see it again.</p>
+<div>Loading..</div>
+
+</body>
+</html>

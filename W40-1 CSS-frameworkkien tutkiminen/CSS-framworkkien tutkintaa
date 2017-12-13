@@ -1,0 +1,27 @@
+CSS-frameworkkien tutkinta
+
+Mielenkiintoisia minusta ovat
+  - Bootstrap
+  - PureCSS
+  - Bulma
+  
+Bulma
++ Tehty sassilla, joten sitä pitäisi olla mahdollista tuunailla omanlaisekseen.
++ Bulmassa näyttää olevan mukana valmiita elementtejä kuten navbarit, tabeja, dropdown-listoja ja muuta. Tämä herättää mielenkiintoa,
+  sillä niitä ei tarvitse sitten itse koodailla näyttämään hyvältä.
++- responsiivisuus toteutettu flexboxin avulla. Tästä ei silleensä ole mielipidettä suuntaan eikä toiseen, mutta itse koen hallitsevani gridin ehkä paremmin.
+- Versio näyttää olevan vain 0.6.1, joten luulen että siinä saattaa olla jotain bugeja seassa.
+
+PureCSS
+Tarjoaa gridisysteemin, sekä valmiiksi tyyliteltyjä formeja, buttoneita ja tableja.
++ Gridihomma vaikuttaa selkeältä ja helposti omaksuttavalta
++ luontevan tuntuisia luokkanimiä ja näppärää toiminnallisuutta kuten kuvien skaalautuminen viewportin mukaan käyttämällä
+  luokkaa .pure-img
++ Erittäin kevyt, vain 3,8Kb minimoituna ja zipattuna.
+
+Bootstrap
++ Laaja dokumentaatio
++ Tarjoaa enemmän kuin tarpeeksi tavaraa käytettäväksi
+- Ehkä vähän liikaakin juttuja? (voisi olla kevyempi)
+
+Todennäköisesti tulen tutustumaan harjoitustyössäni PureCSS-frameworkkiin, sekä Bootstrappiin.

@@ -1,0 +1,5 @@
+Olen ottanut bootstrap-teeman käyttöön viime kesänä omalle väliaikaiselle nettisivulleni joka löytyy osoitteesta:
+Jussiahola.fi
+Ajattelin, että tämän harjoituksen teko uudestaan olisi siksi hieman turhaa.
+
+Sivusto on kyhätty valokuvaus-bisnestä varten väliaikais-sivustoksi siihen asti että saan joskus aikaiseksi koodata kokonaan oman.

@@ -1,0 +1,23 @@
+body {
+}
+
+form {
+  position: relative;
+  top: 50px;
+  max-width: 500px;
+  margin: auto;
+}
+
+#navigaatio {
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+  padding: 5em 0em;
+  text-align: center;
+  background: url("img/bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
