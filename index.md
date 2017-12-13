@@ -1,10 +1,15 @@
 ## TERVE
 
 [W39 Kertaus-tutoriaali](http://www.jussiahola.fi)
+
 [editor on GitHub](https://github.com/Jusba11/Jusba11.github.io/edit/master/index.md)
+
 [editor on GitHub](https://github.com/Jusba11/Jusba11.github.io/edit/master/index.md)
+
 [editor on GitHub](https://github.com/Jusba11/Jusba11.github.io/edit/master/index.md)
+
 [editor on GitHub](https://github.com/Jusba11/Jusba11.github.io/edit/master/index.md)
+
 
 
 You can use the [editor on GitHub](https://github.com/Jusba11/Jusba11.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
