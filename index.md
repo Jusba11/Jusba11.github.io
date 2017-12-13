@@ -4,11 +4,13 @@
 
 [W39 Responsiivinen toteutus](https://jusba11.github.io/W39%20Responsiivinen%20toteutus)
 
-[editor on GitHub](https://jusba11.github.io/W37%20Kertaus-tutoriaali/)
+[W40-1 CSS-frameworkkien tutkintaa](https://github.com/Jusba11/Jusba11.github.io/blob/master/W40-1%20CSS-frameworkkien%20tutkiminen/CSS-framworkkien%20tutkintaa)
 
-[editor on GitHub](https://jusba11.github.io/W37%20Kertaus-tutoriaali/)
+[W40-2 Mockup-harkka](https://github.com/Jusba11/Jusba11.github.io/blob/master/W40-2%20Mockup-harkka/mockup.png)
 
-[editor on GitHub](https://jusba11.github.io/W37%20Kertaus-tutoriaali/)
+[W41-1 Bootstrap vakiotyylit](https://Jusba11.github.io/W41-1%20bootstrap%20vakiotyylit)
+
+[W41-2 Bootstrap teeman käyttöönotto](https://github.com/Jusba11/Jusba11.github.io/blob/master/w41-2%20Bootstrap%20teema/bootstrap-teema.txt)
 
 
 
