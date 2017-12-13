@@ -2,7 +2,7 @@
 
 [W37 Kertaus-tutoriaali](https://jusba11.github.io/W37%20Kertaus-tutoriaali/)
 
-[W39 Responsiivinen toteutus](https://jusba11.github.io/W39 Kertaus-tutoriaali/)
+[W39 Responsiivinen toteutus](https://jusba11.github.io/W39%20Responsiivinen%20toteutus)
 
 [editor on GitHub](https://jusba11.github.io/W37%20Kertaus-tutoriaali/)
 
