@@ -26,16 +26,16 @@ nav ul li {
 .info-wrapper-light {
   background-color: #efefef; }
 
-.col-sm {
+.flexi {
   display: flex;
   justify-content: center;
   align-items: center;
   margin-bottom: 3em; }
-  .col-sm h2 {
+  .flexi h2 {
     width: 100%; }
-  .col-sm img {
+  .flexi img {
     max-height: 300px; }
-  .col-sm p {
+  .flexi p {
     font-size: 1.1em; }
 
 .add-margin-top {
