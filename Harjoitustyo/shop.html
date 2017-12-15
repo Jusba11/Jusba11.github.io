@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Organic Goods</title>
+  <link rel="stylesheet" href="css/master.min.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+</head>
+<body>
+
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#"><img id="nav-logo" src="img/logo.png" alt=""></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="shop.html">Shop</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Health Benefits</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About</a>
+        </li>
+      </ul>
+      <div id="nav-login">
+        <a href="login.html"><i class="fa fa-sign-in" aria-hidden="true"></i>Log in</a>
+        <a href="register.html"><i class="fa fa-user-circle-o" aria-hidden="true"></i>Register</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+
+    <div class="jumbotron">
+      <h1 class="display-3">Welcome to the shop!</h1>
+      <p class="lead">Feel free to add items to your imaginary shopping cart!</p>
+      <hr class="my-4">
+    </div>
+
+    <div class="row">
+      <div class="col-sm flexi">
+        <div class="card" style="width: 20rem;">
+          <img class="card-img-top" src="img/tomato.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h4 class="card-title">Fresh Tomato</h4>
+            <p class="card-text">Numerous varieties of tomato are widely grown in temperate climates across the world, with greenhouses allowing its production throughout the year and in cooler areas</p>
+            <p>
+              <strong>Price: 54$</strong>
+            </p>
+            <button class="btn btn-success" data-toggle="modal" data-target="#shopmodal">Add to cart</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm flexi">
+        <div class="card" style="width: 20rem;">
+          <img class="card-img-top" src="img/broccoli.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h4 class="card-title">Fresh Broccoli</h4>
+            <p class="card-text">Numerous varieties of tomato are widely grown in temperate climates across the world, with greenhouses allowing its production throughout the year and in cooler areas</p>
+            <p>
+              <strong>Price: 33$</strong>
+            </p>
+            <button class="btn btn-success" data-toggle="modal" data-target="#shopmodal">Add to cart</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm flexi">
+        <div class="card" style="width: 20rem;">
+          <img class="card-img-top" src="img/lemon.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h4 class="card-title">Fresh Lemons</h4>
+            <p class="card-text">Numerous varieties of tomato are widely grown in temperate climates across the world, with greenhouses allowing its production throughout the year and in cooler areas</p>
+            <p>
+              <strong>Price: 120$</strong>
+            </p>
+            <button class="btn btn-success" data-toggle="modal" data-target="#shopmodal">Add to cart</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm flexi">
+        <div class="card" style="width: 20rem;">
+          <img class="card-img-top" src="img/tea.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h4 class="card-title">Herbal Tea</h4>
+            <p class="card-text">Numerous varieties of tomato are widely grown in temperate climates across the world, with greenhouses allowing its production throughout the year and in cooler areas</p>
+            <p>
+              <strong>Price: 2$</strong>
+            </p>
+            <button class="btn btn-success" data-toggle="modal" data-target="#shopmodal">Add to cart</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm flexi">
+        <div class="card" style="width: 20rem;">
+          <img class="card-img-top" src="img/tea_leaves.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h4 class="card-title">Tea Leaves</h4>
+            <p class="card-text">Numerous varieties of tomato are widely grown in temperate climates across the world, with greenhouses allowing its production throughout the year and in cooler areas</p>
+            <p>
+              <strong>Price: 420$</strong>
+            </p>
+            <button class="btn btn-success" data-toggle="modal" data-target="#shopmodal">Add to cart</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm flexi">
+        <div class="card" style="width: 20rem;">
+          <img class="card-img-top" src="img/pepper.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h4 class="card-title">Spicy Peppers</h4>
+            <p class="card-text">Numerous varieties of tomato are widely grown in temperate climates across the world, with greenhouses allowing its production throughout the year and in cooler areas</p>
+            <p>
+              <strong>Price: 77$</strong>
+            </p>
+            <button class="btn btn-success" data-toggle="modal" data-target="#shopmodal">Add to cart</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+  <!-- modal -->
+  <div class="modal fade" id="shopmodal" tabindex="-1" role="dialog" aria-labelledby="shopmodalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="shopmodalLabel">Item added to cart!</h5>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-success" data-dismiss="modal">OK, thanks.</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+  </div>
+  <footer>
+    <p>Copyright: Jussi Ahola 2017</p>
+  </footer>
+
+
+
+  <script src="js/jquery-3.1.1.slim.min.js"></script>
+  <script src="js/tether.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+</body>
+</html>
