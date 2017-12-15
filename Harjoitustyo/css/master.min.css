@@ -50,3 +50,11 @@ footer {
   text-align: center;
   background-color: #465146;
   color: white; }
+
+#greenworld {
+  height: auto;
+  position: relative;
+  left: 20px; }
+
+.display-4 {
+  font-size: 2em !important; }
