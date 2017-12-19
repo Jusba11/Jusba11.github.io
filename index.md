@@ -1,4 +1,6 @@
-## TERVE
+## Täällä kurssin palautukset.
+
+[Harjoitustyö](https://jusba11.github.io/Harjoitustyo)
 
 [W37 Kertaus-tutoriaali](https://jusba11.github.io/W37%20Kertaus-tutoriaali/)
 
